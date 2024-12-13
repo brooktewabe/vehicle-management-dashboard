@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const axiosInstance = axios.create({
-  baseURL: 'http://localhost:5000/api/vehicles',
+  baseURL: 'https://vehicle-management-dashboard-onmh3htc8-brooktewabes-projects.vercel.app/api/vehicles',
 });
 
 export default axiosInstance;
