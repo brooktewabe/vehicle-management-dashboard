@@ -7,16 +7,8 @@
     "start": "node index.js",
     "test": "mocha tests/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Mereb-Tech/node-crud-challenge.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Mereb-Tech/node-crud-challenge/issues"
-  },
-  "homepage": "https://github.com/Mereb-Tech/node-crud-challenge#readme",
   "dependencies": {
     "assert": "^2.0.0",
     "axios": "^0.27.2",
